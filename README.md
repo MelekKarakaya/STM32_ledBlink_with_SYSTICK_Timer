@@ -23,3 +23,9 @@ Bu projede HAL_Delay yerine Systick kesmesi ve sayaç yöntemi kullanıldı, ç�
    
 ![image](https://github.com/MelekKarakaya/STM32_ledBlink_with_SYSTICK_Timer/assets/78067331/d0ba0690-47dc-439f-83c6-4b6504b306b1)
 
+NOT: İŞLEMCİ ;
+Model: STM32F072C8T6
+Çekirdek: ARM Cortex-M0
+Çalışma Frekansı: 48 MHz
+Flash Bellek: 64 KB
+SRAM: 16 KB
